@@ -1,4 +1,4 @@
-#Output of this project:
+Output of this project:
 
 ![Signup Output](https://github.com/Afnan5750/Signin-Signup-Using-MERN-Stack/assets/155257728/19da7c99-a778-4408-9570-cc7ff33aecee)
 
